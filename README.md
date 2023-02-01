@@ -23,3 +23,10 @@ The features of the project are:
 11. The above features are supported in text based interface.
 12. In addition to text based interface, it can also support graphical user interface where the following features are added
     Create flexible portfolio, buying/selling stocks, calculate cost basis, save and retrieve portfolios, invest a fixed amount into an using a specified weight, and  perform dollar cost averaging.
+
+The program can be run in Stocks.jar file under res folder using the command `java -jar Stocks.jar`.
+The program by default is set for graphical user interface. So for the user to run the text file
+interface,program can be run in Stocks.jar file under res folder using the command 
+`java -jar Stocks.jar text`.  
+After running the program, you'll be able to find the menu option.
+In the text based interface, after running, this would be the menu option
